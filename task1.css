@@ -4,7 +4,7 @@ body {
     background-color: whitesmoke;
 }
 .slack_details{
-    width: 40%;
+    max-width: 40%;
     margin-left: auto;
     margin-right:auto ;
     padding: 15px;
